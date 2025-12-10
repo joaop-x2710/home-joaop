@@ -7,7 +7,7 @@ _: : runnning early hook [udev]\
 
 ## Welcome to $\color{blue}{\textrm{My Portifolio!}}$  
 ### Lang Select
-### [Português](README.md) / [English](READMEENG.md)
+### [Português](https://github.com/joaop-x2710/home-joaop) / [English](READMEENG.md)
 
 ~\
 ❯ neofetch
