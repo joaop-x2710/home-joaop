@@ -1,3 +1,8 @@
-# joao-x2710.github.io
+: : runnning early hook [udev]
+: : running hook [udev]
+: : Trigering uevents...
+: : performing fsck on 'dev/nvme0'
+: : mounting 'dev/nvme0' on real root
+: : running cleanup hook [udev]
 
-idk wtf im doing fr
+Welcome to <span style="color: blue"> My Portfolio! </span>
