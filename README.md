@@ -25,9 +25,9 @@
   `+sso+:-`                 `.-/+oso:      
  `++:.                           `-/+/        
 ```
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=FFFFFF&repeat=false&width=435&height=35&lines=~;%E2%9D%AF+sudo+nano+bio.txt)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=4000&color=FFFFFF&repeat=false&width=435&height=35&lines=~;%E2%9D%AF+sudo+nano+bio.txt)](https://git.io/typing-svg)
 \
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=7500&color=FFFFFF&repeat=false&width=435&height=35&lines=;%5Bsudo%5D+senha+para+joaop%3A+_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=10200&color=FFFFFF&repeat=false&width=435&height=35&lines=;%5Bsudo%5D+senha+para+joaop%3A+_)](https://git.io/typing-svg)
 ```
 GNU nano 8.7                                        File: about.c
 
@@ -48,7 +48,7 @@ GNU nano 8.7                                        File: about.c
 ^G Get Help    ^O Write Out    ^W Where Is     ^K Cut Text      ^J Justify    ^C Cur Pos
 ^X Exit        ^R Read File    ^\ Replace      ^U Paste Text    ^T To Dos     ^B Go Back
 ```
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=FFFFFF&repeat=false&width=435&height=35&lines=%E2%9D%AF+_;%E2%9D%AF+vim+bio" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=11000&color=FFFFFF&repeat=false&width=435&height=35&lines=%E2%9D%AF+_;%E2%9D%AF+vim+bio" alt="Typing SVG" /></a>
 ```
 1 #!/usr/bin/env bash
 2 
