@@ -12,11 +12,11 @@ _: : runnning early hook [udev]\
 ~\
 ❯ neofetch
 ```
-                   -`                   ┌──────────────────────────────────────────────────────────────────┐
+                   -`                   ┌───────────────────────────────────┐
                   .o+`                  User: João Vitor Salles Peixoto
                  `ooo/                  Email: joaovitorspeixoto@gmail.com
                 `+oooo:                 Telemóvel: +351 913 626 854                                                  
-               `+oooooo:
+               `+oooooo:                Localização: Porto, Portugal
                -+oooooo+:
              `/:-:++oooo+:
             `/++++/+++++++:
