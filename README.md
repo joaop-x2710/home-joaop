@@ -1,8 +1,8 @@
-: : runnning early hook [udev]\n
-: : running hook [udev]\n
-: : Trigering uevents...\n
-: : performing fsck on 'dev/nvme0'\n
-: : mounting 'dev/nvme0' on real root\n
-: : running cleanup hook [udev]\n
+: : runnning early hook [udev]\
+: : running hook [udev]\
+: : Trigering uevents...\
+: : performing fsck on 'dev/nvme0'\
+: : mounting 'dev/nvme0' on real root\
+: : running cleanup hook [udev]\
 
-Welcome to <code style="color : aqua">My Portfolio!</code>
+Welcome to $\color{blue}{\textrm{My Portifolio!}}$\
