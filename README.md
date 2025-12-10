@@ -45,8 +45,8 @@ GNU nano 8.7                                        File: about.c
 
 
 
-^G Get Help      ^O Write Out     ^W Where Is      ^K Cut Text      ^J Justify       ^C Cur Pos
-^X Exit          ^R Read File     ^\ Replace       ^U Paste Text    ^T To Dos        ^B Go Back
+^G Get Help    ^O Write Out    ^W Where Is     ^K Cut Text      ^J Justify    ^C Cur Pos
+^X Exit        ^R Read File    ^\ Replace      ^U Paste Text    ^T To Dos     ^B Go Back
 ```
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=FFFFFF&repeat=false&width=435&height=35&lines=%E2%9D%AF+_;%E2%9D%AF+vim+bio" alt="Typing SVG" /></a>
 ```
@@ -54,12 +54,17 @@ GNU nano 8.7                                        File: about.c
 2 
 3 :set filetype=about
 4
-5 Sou alguém que pega as coisas rápido e sempre gostei de fuçar tecnologia, principalmente o lado mais baixo nível.
-6 Quebro coisas por curiosidade mesmo, porque entender onde tudo quebra costuma ensinar mais do que qualquer tutorial.
-7 Tenho uma afinidade natural com esse tipo de assunto, então resolver problema na marra, mas com calma, é meu jeito padrão.
+5 Sou alguém que pega as coisas rápido e sempre gostei de fuçar tecnologia,
+  principalmente o lado mais baixo nível.
+6 Quebro coisas por curiosidade mesmo, porque entender onde tudo quebra costuma ensinar
+  mais do que qualquer tutorial.
+7 Tenho uma afinidade natural com esse tipo de assunto, então resolver problema na marra,
+  mas com calma, é meu jeito padrão.
 8
-9 Também sou bastante ligado a música, é algo que sempre tá comigo, seja pra focar, relaxar ou só acompanhar o dia.
-10 Curto jogos, cultura japonesa e qualquer coisa que me faça aprender algo novo. No fim das contas, só tento evoluir um pouco a cada dia.
+9 Também sou bastante ligado a música, é algo que sempre tá comigo, seja pra focar,
+  relaxar ou só acompanhar o dia.
+10 Curto jogos, cultura japonesa e qualquer coisa que me faça aprender algo novo.
+  No fim das contas, só tento evoluir um pouco a cada dia.
 ~
 ~
 -- INSERT --                                                  10, 138-136  All
