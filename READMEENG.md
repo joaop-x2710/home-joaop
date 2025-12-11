@@ -20,8 +20,8 @@
         .oossssso-````/ossssss+`          ┌──────────────HARD-SKILLS───────────────┐
        -osssssso.      :ssssssso.         Packages: C, C++, Linux CLI
       :osssssss/        osssso+++.        Shell: bash (knowledge base)
-     /ossssssss/        +ssssooo/-        SO: Linux, Linux CLI, Windows
-   `/ossssso+/:-        -:/+osssso+-      └────────────────────────────────────────┘
+     /ossssssss/        +ssssooo/-        └────────────────────────────────────────┘
+   `/ossssso+/:-        -:/+osssso+-      
   `+sso+:-`                 `.-/+oso:      
  `++:.                           `-/+/        
 ```
