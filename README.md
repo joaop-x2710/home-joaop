@@ -18,7 +18,7 @@
           `/+++ooooooooooooo/`            Uptime: 3 years (Conclusão Prevista)
          ./ooosssso++osssssso+`           └────────────────────────────────────────┘
         .oossssso-````/ossssss+`          ┌──────────────HARD-SKILLS───────────────┐
-       -osssssso.      :ssssssso.         Packages: C, C++, Linux CLI
+       -osssssso.      :ssssssso.         Packages: C, C++
       :osssssss/        osssso+++.        Shell: bash (knowledge base)
      /ossssssss/        +ssssooo/-        └────────────────────────────────────────┘
    `/ossssso+/:-        -:/+osssso+-      
