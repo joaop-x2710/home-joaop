@@ -67,5 +67,5 @@ GNU nano 8.7                                        File: about.c
   At the end of the day, I just try to evolve a little with each passing day.
 ~
 ~
--- INSERT --                                                              10, 138-136  All
+-- INSERT --                                                           10, 138-136  All
 ```
