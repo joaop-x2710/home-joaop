@@ -15,12 +15,12 @@
              `/:-:++oooo+:                └────────────────────────────────────────┘
             `/++++/+++++++:               ┌────────────────────────────────────────┐
            `/++++++++++++++:              Licenciatura Engenharia Informática @ UTAD
-          `/+++ooooooooooooo/`            Uptime: 3 years (Conclusão Prevista)
+          `/+++ooooooooooooo/`            Uptime: 1/6 semester (Conclusão Prevista)
          ./ooosssso++osssssso+`           └────────────────────────────────────────┘
-        .oossssso-````/ossssss+`          ┌──────────────HARD-SKILLS───────────────┐
-       -osssssso.      :ssssssso.         Packages: C, C++
-      :osssssss/        osssso+++.        Shell: bash (knowledge base)
-     /ossssssss/        +ssssooo/-        └────────────────────────────────────────┘
+        .oossssso-````/ossssss+`          
+       -osssssso.      :ssssssso.         
+      :osssssss/        osssso+++.        
+     /ossssssss/        +ssssooo/-        
    `/ossssso+/:-        -:/+osssso+-      
   `+sso+:-`                 `.-/+oso:      
  `++:.                           `-/+/        
@@ -52,19 +52,19 @@ GNU nano 8.7                                        File: about.c
 ```
 1 #!/usr/bin/env bash
 2 
-3 :set filetype=about
+3  :set filetype=about
 4
-5 Sou alguém que pega as coisas rápido e sempre gostei de fuçar tecnologia,
-  principalmente o lado mais baixo nível.
-6 Quebro coisas por curiosidade mesmo, porque entender onde tudo quebra costuma ensinar
-  mais do que qualquer tutorial.
-7 Tenho uma afinidade natural com esse tipo de assunto, então resolver problema na marra,
-  mas com calma, é meu jeito padrão.
+5  Aprendo as coisas rapidamente e sempre gostei de explorar tecnologia,
+   especialmente a parte mais low-level.
+6  Muitas vezes “parto” coisas por pura curiosidadem perceber onde tudo
+   falha costuma ensinar mais do que qualquer tutorial.
+7  Tenho uma afinidade natural com este tipo de temas, por isso resolver
+   problemas à força bruta, mas com calma, acaba por ser o meu método padrão.
 8
-9 Também sou bastante ligado a música, é algo que sempre tá comigo, seja pra focar,
-  relaxar ou só acompanhar o dia.
-10 Curto jogos, cultura japonesa e qualquer coisa que me faça aprender algo novo.
-  No fim das contas, só tento evoluir um pouco a cada dia.
+9  Também sou bastante ligado à música. Está sempre presente, seja para me
+   concentrar, relaxar ou simplesmente acompanhar o dia.
+10 Gosto de jogos, cultura japonesa e de tudo o que me permita aprender algo
+   novo. No fim de contas, o objectivo é simples: evoluir um pouco todos os dias.
 ~
 ~
 -- INSERT --                                                            10, 138-136  All
