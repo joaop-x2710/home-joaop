@@ -25,7 +25,7 @@
   `+sso+:-`                 `.-/+oso:      
  `++:.                           `-/+/        
 ```
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=4000&color=FFFFFF&repeat=false&width=435&height=35&lines=~;%E2%9D%AF+sudo+nano+bio.txt)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=4000&color=FFFFFF&repeat=false&width=435&height=35&lines=%E2%9D%AF+sudo+nano+about.c)](https://git.io/typing-svg)
 \
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=10200&color=FFFFFF&repeat=false&width=435&height=35&lines=;%5Bsudo%5D+senha+para+joaop%3A+_)](https://git.io/typing-svg)
 ```
