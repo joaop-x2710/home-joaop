@@ -15,7 +15,7 @@
              `/:-:++oooo+:                └────────────────────────────────────────┘
             `/++++/+++++++:               ┌────────────────────────────────────────┐
            `/++++++++++++++:              Computer Engineering Degree @ UTAD
-          `/+++ooooooooooooo/`            Uptime: 1/6 semester (Expected Graduation)
+          `/+++ooooooooooooo/`            Uptime: 1/6 semesters (Expected Graduation)
          ./ooosssso++osssssso+`           └────────────────────────────────────────┘
         .oossssso-````/ossssss+`          
        -osssssso.      :ssssssso.         
