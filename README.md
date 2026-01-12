@@ -15,7 +15,7 @@
              `/:-:++oooo+:                └────────────────────────────────────────┘
             `/++++/+++++++:               ┌────────────────────────────────────────┐
            `/++++++++++++++:              Licenciatura Engenharia Informática @ UTAD
-          `/+++ooooooooooooo/`            Uptime: 1/6 semester (Conclusão Prevista)
+          `/+++ooooooooooooo/`            Uptime: 1/6 semestres (Conclusão Prevista)
          ./ooosssso++osssssso+`           └────────────────────────────────────────┘
         .oossssso-````/ossssss+`          
        -osssssso.      :ssssssso.         
