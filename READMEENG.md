@@ -69,3 +69,9 @@ GNU nano 8.7                                        File: about.c
 ~
 -- INSERT --                                                           10, 138-136  All
 ```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=F7F7F7&width=435&lines=%E2%9D%AF+clear)](https://git.io/typing-svg)\
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=F7F7F7&width=435&lines=%E2%9D%AF+cd+Projects%2F)](https://git.io/typing-svg)\
+\
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=F7F7F7&multiline=true&repeat=false&width=435&height=100&lines=~%2FProjects;%E2%9D%AF++ls)](https://git.io/typing-svg)
+```
+```
