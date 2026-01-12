@@ -15,12 +15,12 @@
              `/:-:++oooo+:                └────────────────────────────────────────┘
             `/++++/+++++++:               ┌────────────────────────────────────────┐
            `/++++++++++++++:              Computer Engineering Degree @ UTAD
-          `/+++ooooooooooooo/`            Uptime: 3 years (Expected Graduation)
+          `/+++ooooooooooooo/`            Uptime: 1/6 semester (Expected Graduation)
          ./ooosssso++osssssso+`           └────────────────────────────────────────┘
-        .oossssso-````/ossssss+`          ┌──────────────HARD-SKILLS───────────────┐
-       -osssssso.      :ssssssso.         Packages: C, C++
-      :osssssss/        osssso+++.        Shell: bash (knowledge base)
-     /ossssssss/        +ssssooo/-        └────────────────────────────────────────┘
+        .oossssso-````/ossssss+`          
+       -osssssso.      :ssssssso.         
+      :osssssss/        osssso+++.        
+     /ossssssss/        +ssssooo/-        
    `/ossssso+/:-        -:/+osssso+-      
   `+sso+:-`                 `.-/+oso:      
  `++:.                           `-/+/        
@@ -52,19 +52,19 @@ GNU nano 8.7                                        File: about.c
 ```
 1 #!/usr/bin/env bash
 2 
-3 :set filetype=about
+3  :set filetype=about
 4
-5 I'm someone who learn things quickly and have always enjoyed tinkering with technology,
-  especially the low-level side.
-6 I break things out of curiosity, because understanding where everything breaks usually
-  teaches more than any tutorial.
-7 I have a natural affinity for these kinds of subjects, so solving problems head-on,
-  but calmly, is my default approach.
+5  I'm someone who learn things quickly and have always enjoyed tinkering with technology,
+   especially the low-level side.
+6  I break things out of curiosity, because understanding where everything breaks usually
+   teaches more than any tutorial.
+7  I have a natural affinity for these kinds of subjects, so solving problems head-on,
+   but calmly, is my default approach.
 8
-9 I'm also very connected to music; it's always with me, whether for focusing,
-  relaxing, or just accompanying the day.
+9  I'm also very connected to music; it's always with me, whether for focusing,
+   relaxing, or just accompanying the day.
 10 I enjoy gaming, Japanese culture, and anything that makes me learn something new.
-  At the end of the day, I just try to evolve a little with each passing day.
+   At the end of the day, I just try to evolve a little with each passing day.
 ~
 ~
 -- INSERT --                                                           10, 138-136  All
